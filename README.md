@@ -1,6 +1,6 @@
 # Getting this baby online...
 
-...was an absolute struggle. I hate to admit that, but "I have a problem with my throat chakra which manifests into poor speech." Don't worry: my new favorite crystal is Lapis Lazuli. 
+...was almost as difficult as finding a man interested in having a literal baby with me. Sorry, "I have a problem with my throat chakra which manifests as poor speech." Don't worry: my new favorite crystal is Lapis Lazuli. 
 
 Anyways. 
 
