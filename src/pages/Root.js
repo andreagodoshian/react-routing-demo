@@ -2,7 +2,6 @@
 ////////////////////////////////////////////////
 
 import { Outlet } from "react-router-dom";
-import classes from "./Root.module.css";
 
 import MainNavigation from "../components/MainNavigation";
 
@@ -10,7 +9,7 @@ function Root() {
   return (
     <>
       <MainNavigation />
-      <main className={classes.content}>
+      <main>
         <Outlet />
         {/* ^^^^ all children go here */}
       </main>

@@ -1,4 +1,5 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import ErrorPage from "./pages/Error";
 
 import HomePage from "./pages/Home";
 import ProductsPage from "./pages/Products";
@@ -9,6 +10,7 @@ const myRouter = createBrowserRouter([
   {
     path: "/",
     element: <Root />,
+    errorElement: <ErrorPage/>,
     children: // also takes array of js objects
     [
       { path: "/", element: <HomePage /> },
@@ -18,6 +20,7 @@ const myRouter = createBrowserRouter([
   {
     path: "/admin",
     element: <Root />,
+    errorElement: <ErrorPage/>,
     children: // Just to show - can have multiple
     [
       { path: "/admin", element: <h1>Admin!!</h1> }
